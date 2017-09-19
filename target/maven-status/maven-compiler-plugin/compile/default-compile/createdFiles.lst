@@ -1,0 +1,10 @@
+com\adp\dogbreed\controller\DogBreedController.class
+com\adp\dogbreed\model\Dog.class
+com\adp\dogbreed\configuration\HibernateConfiguration.class
+com\adp\dogbreed\dao\DogDAOImpl.class
+com\adp\dogbreed\service\DogServiceImpl.class
+com\adp\dogbreed\configuration\AppConfig.class
+com\adp\dogbreed\configuration\AppInitializer.class
+com\adp\dogbreed\dao\AbstractDAO.class
+com\adp\dogbreed\dao\DogDAO.class
+com\adp\dogbreed\service\DogService.class
